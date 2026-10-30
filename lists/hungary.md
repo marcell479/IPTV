@@ -45,6 +45,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 27   | Viasat History  | [>](http://141.94.193.53:80/Viasat_History_HD/index.m3u8) |   <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" /> | ViasatHistory.hu |
 | 28   | Viasat Nature   | [>](http://141.94.193.53:80/Viasat_Nature_HD/index.m3u8) |    <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Viasat_Nature_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" /> | ViasatNature.hu
 | 29   | EuroSport1      | [>](http://141.94.193.53:80/Eurosport_1_HD/index.m3u8) |    <img height="20" src="https://files.cdn.magio.tv/tv_logos/eurosport-1-hd.png" /> | Eurosport1.hu |
+| 30   | Max4.            | [>](http://141.94.193.53:80/MAX4_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/max4.gif" /> | Max4.hu
+| 31   | Nat Geo          | [>](http://141.94.193.53:80/Nat_Geo_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/nghd.gif" /> | NatGeo.hu
 
 <h2>Series</h2>
 
