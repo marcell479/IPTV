@@ -37,7 +37,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 19   | Sport2 Ⓖ       | [>](http://141.94.193.53:80/Sport_2_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/sport2.gif" /> | Sport2.hu |
 | 20  | Viasat3.        | [>](http://141.94.193.53:80/VIASAT3_HD/index.m3u8) |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Viasat3_%281%29.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" />| Viasat3.hu |
 | 21  | Story4.         | [>](http://141.94.193.53:80/Story4_HD/index.m3u8) | <img height="20" src="https://www.tvmustra.hu/logok/csatikon/story4.gif" /> | Story4.hu |
-| 22  | Minimax.        | [>](http://141.94.193.53:80/Minimax_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/minimax3d.gif" /> | Minimax.hu |
+| 22  | Minimax.        | [>](http://141.94.193.53:80/MiniMax_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/minimax3d.gif" /> | Minimax.hu |
 | 23   | RTL Kettő       | [>](http://88.212.7.14/live/test_rtl2_hungary_1200_atk/playlist.m3u8) |  <img height="20" src="https://media.port.hu/images/001/707/100x100/203.jpg" /> | RTL2.hu
 | 24   | FEM3 (TV2 Klub) | [>](http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AF4Sz8Z.png" /> | FEM3.hu |
 | 25   | Viasat 6       | [>](http://88.212.7.14/live/viasat6/index.m3u8) | <img height="20" src="https://i.imgur.com/kypSbFX.png" /> | Viasat6.hu |
